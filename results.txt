@@ -1,0 +1,14 @@
+CUSTOMER CHURN PREDICTION RESULTS
+========================================
+
+Accuracy: 78.99%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       0.83      0.90      0.86      1035
+        True       0.63      0.49      0.56       374
+
+    accuracy                           0.79      1409
+   macro avg       0.73      0.70      0.71      1409
+weighted avg       0.78      0.79      0.78      1409
